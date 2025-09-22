@@ -19,7 +19,7 @@ Customer Growth: Monthly acquisition trend analysis
 
 Experience Metrics: Service quality, speed, hygiene, and availability scores
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 Tools: Excel 
 
@@ -27,7 +27,7 @@ Design: Minimalist, brown theme, icon-based navigation
 
 Focus: Clarity, performance tracking, and customer insights
 
-# 🎯 Purpose
+## 🎯 Purpose
 
 Monitor business performance in real-time
 
